@@ -25,7 +25,7 @@ software testing weekly | _notizie e articoli sul test del software nella tua ca
 ### :gift: Utilità
 titolo|commento|link 
 ------|--------|----
-Naughty Strings | |
+Naughty Strings |stringhe che hanno un'alta probabilità di causare problemi se utilizzate come dati di input dell'utente. |[:link:](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 ### :space_invader: browser plugin in aiuto al test
 titolo|commento|link 
@@ -39,4 +39,6 @@ Oracolo del Test | _punto di incontro dei tester milanesi_ | [:link:](https://ww
 
 
 ### :headphones: perchè non accompagniare i test con un pò di musica
-[:link:](https://open.spotify.com/playlist/0AZq0Dhacu1Cpx4D663gVU?si=-k_MTaBaSrqsl4BNnXAXqQ)
+titolo|link 
+------|--------
+Testing playlist|[:link:](https://open.spotify.com/playlist/0AZq0Dhacu1Cpx4D663gVU?si=-k_MTaBaSrqsl4BNnXAXqQ)
