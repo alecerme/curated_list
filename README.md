@@ -8,3 +8,4 @@ article, book, video, meetup for upgrade you skill as a tester
 article, book, video, meetup for upgrade you skill on cypress
 
 ### curated list of podcast [:link:](https://github.com/alecerme/curated_list/blob/main/podcast.md)
+list of podcast arround dev, development, agile, graphics, technology, science, product, diversity and disability, user experience
